@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Oppo F19",
+        "camera": "16MP front camera",
+        "feature_id": 1,
+        "camera_id": 1,
+        "battery": "5000mAh Battery",
+        "thumb": [
+            "Assets/oppof.webp",
+            "Assets/oppoA.webp",
+            "Assets/oppok.webp",
+            "Assets/vivoy.webp"
+        ],
+        "aggregate_rating": 4.2,
+        "rating_text": "Very Good",
+        "min_price": 6660,
+        "special_feature": "Touchscreen",
+        "speciality_id": [
+            1,
+            2
+        ],
+        "speciality": [
+            {
+                "id": 1,
+                "name": "Dual SIM"
+            },
+            {
+                "id": 4,
+                "name": "Triple lens"
+            }
+        ],
+        "image": "Assets/oppof.webp",
+        "brandtype_id": 1
+    },
+    {
+        "name": "OPPO A9 2020",
+        "camera": "16MP front camera",
+        "feature_id": 1,
+        "camera_id": 1,
+        "battery": "5000mAh Battery",
+        "thumb": [
+            "Assets/oppof.webp",
+            "Assets/oppoA.webp",
+            "Assets/oppok.webp",
+            "Assets/vivoy.webp"
+        ],
+        "aggregate_rating": 4.5,
+        "rating_text": "Excellent",
+        "min_price": 3330,
+        "special_feature": "Touchscreen",
+        "speciality_id": [
+            2,
+            4
+        ],
+        "speciality": [
+            {
+                "id": 2,
+                "name": "Single SIM"
+            },
+            {
+                "id": 4,
+                "name": "Triple lens"
+            }
+        ],
+        "image": "Assets/oppoA.webp",
+        "brandtype_id": 1
+    },
+    {
+        "name": "OPPO K9 pro",
+        "camera": "16MP front camera",
+        "feature_id": 1,
+        "camera_id": 1,
+        "battery": "5000mAh Battery",
+        "thumb": [
+            "Assets/oppof.webp",
+            "Assets/oppoA.webp",
+            "Assets/oppok.webp",
+            "Assets/vivoy.webp"
+        ],
+        "aggregate_rating": 4.5,
+        "rating_text": "Excellent",
+        "min_price": 9990,
+        "special_feature": "Touchscreen",
+        "speciality_id": [
+            2,
+            4
+        ],
+        "speciality": [
+            {
+                "id": 2,
+                "name": "Single SIM"
+            },
+            {
+                "id": 4,
+                "name": "Triple lens"
+            }
+        ],
+        "image": "Assets/oppok.webp",
+        "brandtype_id": 1
+    },
+    {
+        "name": "Vivo Y20",
+        "camera": "16MP front camera",
+        "feature_id": 5,
+        "camera_id": 1,
+        "battery": "4500mAh Battery",
+        "thumb": [
+            "Assets/oppof.webp",
+            "Assets/oppoA.webp",
+            "Assets/oppok.webp",
+            "Assets/vivoy.webp"
+        ],
+        "aggregate_rating": 3.5,
+        "rating_text": "Excellent",
+        "min_price": 5990,
+        "special_featurecontact_number": "Touchscreen",
+        "speciality_id": [
+            1,
+            4
+        ],
+        "speciality": [
+            {
+                "id": 1,
+                "name": "Dual SIM"
+            },
+            {
+                "id": 4,
+                "name": "Triple lens"
+            }
+        ],
+        "image": "Assets/vivoy.webp",
+        "brandtype_id": 2
+    }
+]

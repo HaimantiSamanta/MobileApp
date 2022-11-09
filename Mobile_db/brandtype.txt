@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Oppo",
+        "content": "Selfie expert",
+        "image": "Assets/oppo.avif",
+        "brand_type": 1
+    },
+    {
+        "name": "Vivo",
+        "content": "Camera & Music",
+        "image": "Assets/vivo.png",
+        "brand_type": 2
+    },
+    {
+        "name": "Oneplus",
+        "content": "Never settle",
+        "image": "Assets/oneplus.png",
+        "brand_type": 3
+    },
+    {
+        "name": "Xiaomi",
+        "content": "Smater living",
+        "image": "Assets/xiaomi.png",
+        "brand_type": 4
+    },
+    {
+        "name": "Apple",
+        "content": "Think different - But not too different",
+        "image": "Assets/apple.webp",
+        "brand_type": 5
+    },
+    {
+        "name": "Samsung",
+        "content": "Better normal for all",
+        "image": "Assets/samsung.webp",
+        "brand_type": 6
+    }
+]

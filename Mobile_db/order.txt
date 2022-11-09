@@ -1,0 +1,13 @@
+[
+    {
+        "placedBy": "Haimanti",
+        "placedByUserId": 3,
+        "placedOn": "",
+        "items": [
+            {},
+            {}
+        ],
+        "Amount": 690,
+        "serieId": "60c4ab975111101f1671cfea"
+    }
+]

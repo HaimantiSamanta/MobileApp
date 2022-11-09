@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Vivo Y20",
+        "description": "8GB RAM | 128GB ROM |16.51 cm(6.5 inch)Display | Color : Space purple",
+        "serieId": "5fa3ce4fa296a91c68b3627f",
+        "image": "Assets/vivo.png",
+        "qty": 0,
+        "price": "20500"
+    },
+    {
+        "name": "Vivo Y20",
+        "description": "8GB RAM | 128GB ROM | 16.59cm(6.53 inch)Display | Color : Marine Green",
+        "serieId": "5fa3ce4fa296a91c68b3627f",
+        "image": "Assets/vivo.png",
+        "qty": 0,
+        "price": "23680"
+    },
+    {
+        "name": "Vivo Y20 ",
+        "description": "4GB RAM | 64GB ROM | 16.51cm(6.5 inch)Display | Color: Vanilla Mint",
+        "serieId": "5fa3ce4fa296a91c68b3627f",
+        "image": "Assets/vivo.png",
+        "qty": 0,
+        "price": "14200"
+    },
+    {
+        "name": "OPPO F19",
+        "description": "4GB RAM | 64GB ROM | 16.51cm(6.5 inch)Display | Color: Vanilla Mint",
+        "serieId": "5efb3f4e8f93dc4593e2885a",
+        "image": "Assets/oppo.avif",
+        "qty": 0,
+        "price": "12990"
+    },
+    {
+        "name": "OPPO F19",
+        "description": "8GB RAM | 128GB ROM | 16.59cm(6.53 inch)Display | Color : Marine Green",
+        "serieId": "5efb3f4e8f93dc4593e2885a",
+        "image": "Assets/oppo.avif",
+        "qty": 0,
+        "price": "19900"
+    },
+    {
+        "name": "OPPO F19",
+        "description": "4GB RAM | 128GB ROM | 16.59cm(6.53 inch)HD + Display | Color : Space purple",
+        "serieId": "5efb3f4e8f93dc4593e2885a",
+        "image": "Assets/oppo.avif",
+        "qty": 0,
+        "price": "16500"
+    },
+    {
+        "name": "OPPO A9 2020",
+        "description": "8GB RAM | 128GB ROM |16.51 cm(6.5 inch)Display | Color : Space purple",
+        "serieId": "5fa3b894a296a91c68b3627d",
+        "image": "Assets/oppo.avif",
+        "qty": 0,
+        "price": "17990"
+    },
+    {
+        "name": "OPPO A9 2020",
+        "description": "4GB RAM | 128GB ROM | 16.59cm(6.53)HD +Display | Color : Space purple",
+        "serieId": "5fa3b894a296a91c68b3627d",
+        "image": "Assets/oppo.avif",
+        "qty": 0,
+        "price": "3990"
+    },
+    {
+        "name": "Oppo A9 2020",
+        "description": "8GB RAM | 128GB ROM |16.59cm(6.53 inch)HD + Display",
+        "serieId": "5fa3b894a296a91c68b3627d",
+        "image": "Assets/oppo.avif",
+        "qty": 0,
+        "price": "19990"
+    },
+    {
+        "name": "Oppo K9 Pro",
+        "description": "8GB RAM | 128GB ROM |16.59cm(6.53 inch)HD + Display",
+        "serieId": "5fa3c6a8a296a91c68b3627e",
+        "image": "Assets/oppo.avif",
+        "qty": 0,
+        "price": "9990"
+    },
+    {
+        "name": "OPPO K9 pro",
+        "description": "4GB RAM | 128GB ROM | 16.59cm(6.53)HD +Display | Color : Space purple",
+        "serieId": "5fa3c6a8a296a91c68b3627e",
+        "image": "Assets/oppo.avif",
+        "qty": 0,
+        "price": "14950"
+    }
+]

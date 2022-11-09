@@ -1,0 +1,37 @@
+[
+    {
+        "name": "5000mAh Battery",
+        "camera_id": 1,
+        "feature_id": 1,
+        "camera": "16MP front camera",
+        "country_name": "India"
+    },
+    {
+        "name": "5020mAh Battery",
+        "camera_id": 1,
+        "feature_id": 2,
+        "camera": "16MP front camera",
+        "country_name": "India"
+    },
+    {
+        "name": "4000mAh Battery",
+        "camera_id": 1,
+        "feature_id": 3,
+        "camera": "16MP front camera",
+        "country_name": "India"
+    },
+    {
+        "name": "4000mAh Battery",
+        "camera_id": 2,
+        "feature_id": 4,
+        "camera": "8MP front camera",
+        "country_name": "India"
+    },
+    {
+        "name": "4500mAh Battery",
+        "camera_id": 1,
+        "feature_id": 5,
+        "camera": "16MP front camera",
+        "country_name": "India"
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "email": "haimantisamanta1997.com",
+        "password": "asdfg123",
+        "firstName": "Haimanti",
+        "lastName": "Samanta"
+    }
+]
